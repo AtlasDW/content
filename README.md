@@ -1,2 +1,2 @@
 # content
-Descriptions of the contain with Atlas Data Warehouse
+Descriptions of the contents with Atlas Data Warehouse
